@@ -62,5 +62,5 @@ ranger -root /home/joe/data \
 
 MIT license http://www.opensource.org/licenses/mit-license.php/
 
-Copyright (C) 2014-2015 Luca Antiga http://lantiga.github.io
+Copyright (C) 2016 Luca Antiga, Orobix Srl (www.orobix.com)
 
